@@ -55,7 +55,7 @@ $conn->close();
 <link rel="stylesheet" href="../src/css/styles.css" />
 
 
-<body class="background-admin">
+<body class="background-admin" style = "background-color : #162114;">
     <div class="flex place-content-center">
         <img class="pl-20 pt-48" src="images/Logo1.png" width="512" height="128">
     </div>

@@ -18,14 +18,14 @@
         <img src="../src/images/Logo1.png" alt="logo7summit" class="h-10" />
       </a>
       <ul class="flex space-x-6">
-        <li><a href="#explore" class="text-white hover: text-orange-600">Explore</a></li>
-        <li><a href="#about" class="text-white hover: text-orange-600">About Us</a></li>
-        <li><a href="#community" class="text-white hover: text-orange-600">Community</a></li>
+        <li><a href="#explore" class="text-white hover:text-orange-600">Explore</a></li>
+        <li><a href="#about" class="text-white hover:text-orange-600">About Us</a></li>
+        <li><a href="#community" class="text-white hover:text-orange-600">Community</a></li>
       </ul>
     </nav>
 
     <!-- Hero Section -->
-    <section id="hero" class="h-screen bg-cover bg-center" style="background-image: ../src/images/bghero.png;">
+    <section id="hero" class="h-screen bg-cover bg-center" style="background-image: url('../src/images/bghero.png');">
       <div class="h-full flex flex-col justify-center items-center text-center text-white bg-black bg-opacity-50">
         <h1 class="text-4xl font-bold mb-4">Discover the Majestic Mountains of Indonesia</h1>
         <p class="text-lg mb-6">Explore the breathtaking landscapes and majestic mountains of Indonesia...</p>
